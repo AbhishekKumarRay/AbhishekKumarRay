@@ -29,6 +29,6 @@ I am also an open-source enthusiast. I enjoy learning from the open-source commu
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekKumarRay&show_icons=true&theme=gotham" alt="AbhishekKumarRay" /> <br><br>
   
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekKumarRay&theme=gotham" alt="AbhishekKumarRay" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekKumarRay&theme=gotham" alt="AbhishekKumarRay" /></p><br><br>
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekKumarRay&show_icons=true&locale=en&layout=compact&theme=gotham" alt="AbhishekKumarRay" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekKumarRay&show_icons=true&locale=en&layout=compact&theme=gotham" alt="AbhishekKumarRay" /></p>
