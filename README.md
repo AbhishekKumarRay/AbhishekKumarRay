@@ -17,7 +17,7 @@
 Hi, I'm [Abhishek Kumar Ray](http://brocoder404.epizy.com/), a passionate self-taught Front-End Developer and a Machine Learning Enthusiast, currently pursing my Bachelor's Degree from Chandigarh University, Punjab. <br>
 My career objective is to become a Visionary developer with deep knowledge in research and analytics.
 <br>
-I am also an open-source enthusiast. I enjoy learning from the open-source community and I also love the way collaboration and knowledge sharing happens through open-source.
+I am also an open-source enthusiast. I enjoy learning from the open-source community, and I also love the way collaboration and knowledge sharing happens through open-source.
   
 - 💼 Any Query? do reach me!
 📫 How to reach me:
