@@ -23,7 +23,7 @@ I am also an open-source enthusiast. I enjoy learning from the open-source commu
 📫 How to reach me:
   - Website: https://brocoder404.epizy.com
   - Email: brocoder404@gmail.com
-  - Address: BSNL Staff Qtr. Complex, Rynjah, Shillong, Meghalaya.
+  - Address: BSNL Staff Quarter Complex, Rynjah, Shillong, Meghalaya.
 <br>
 📈 My Github Stats
 
