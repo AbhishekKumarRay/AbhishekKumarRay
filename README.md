@@ -31,3 +31,5 @@ I am also an open-source enthusiast. I enjoy learning from the open-source commu
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekKumarRay&theme=gotham" alt="AbhishekKumarRay" /></p><br><br>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekKumarRay&show_icons=true&locale=en&layout=compact&theme=gotham" alt="AbhishekKumarRay" /></p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=AbhishekKumarRay.AbhishekKumarRay)
