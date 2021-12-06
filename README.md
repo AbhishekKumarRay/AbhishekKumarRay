@@ -12,7 +12,7 @@
 </a><br><br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AbhishekKumarRay.AbhishekKumarRay)
-
+![](https://visitor-badge.glitch.me/badge?page_id=AbhishekKumarRay.AbhishekKumarRay)
 
 Hi, I'm [Abhishek Kumar Ray](http://brocoder404.epizy.com/), a passionate self-taught Front-End Developer and a Machine Learning Enthusiast, currently pursing my Bachelor's Degree from Chandigarh University, Punjab. <br>
 My career objective is to become a Visionary developer with deep knowledge in research and analytics.
