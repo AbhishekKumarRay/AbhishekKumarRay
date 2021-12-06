@@ -13,7 +13,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AbhishekKumarRay.AbhishekKumarRay)
 
-Hi, I'm [Abhishek Kumar Ray](http://brocoder404.epizy.com/), a passionate, self-taught Front-End and a Machine Learning Enthusiast, currently pursing my Bachelor's Degree from Chandigarh University, Punjab. <br>
+Hi, I'm [Abhishek Kumar Ray](http://brocoder404.epizy.com/), a passionate, self-taught Front-End Developer and a Machine Learning Enthusiast, currently pursing my Bachelor's Degree from Chandigarh University, Punjab. <br>
 My career objective is to become a Visionary developer with deep knowledge in research and analytics.
 <br>
 I am also an open-source enthusiast. I enjoy learning from the open-source community, and I also love the way collaboration and knowledge sharing happens through open-source.
@@ -31,5 +31,3 @@ I am also an open-source enthusiast. I enjoy learning from the open-source commu
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekKumarRay&theme=gotham" alt="AbhishekKumarRay" /></p><br><br>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekKumarRay&show_icons=true&locale=en&layout=compact&theme=gotham" alt="AbhishekKumarRay" /></p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=AbhishekKumarRay.AbhishekKumarRay)
