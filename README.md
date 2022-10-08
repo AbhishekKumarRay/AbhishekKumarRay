@@ -9,7 +9,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/56451789/194726429-ef92378c-bf60-4b5b-9b93-929b777609bb.png" />
 </a>
 <a href="https://www.hackerrank.com/rayabhishek">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />
+  <img align="left" alt="Abhishek's HackerRank" width="22px" src="https://user-images.githubusercontent.com/56451789/194726727-ef4fe087-e340-4078-a985-5ebc3aa6e0b4.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AbhishekKumarRay.AbhishekKumarRay)
