@@ -1,15 +1,16 @@
 ### Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
+
 <a href="https://twitter.com/Abhi_13_11">
-  <img align="left" alt="Abhishek's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Abhishek's Twitter" width="22px" src="https://user-images.githubusercontent.com/56451789/194726603-92929fd2-ce47-42ad-ac6e-0106eb2056f5.png" />
 </a>
 <a href="https://www.linkedin.com/in/abhishek-kumar-ray-a82536190/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/56451789/194726429-ef92378c-bf60-4b5b-9b93-929b777609bb.png" />
 </a>
 <a href="https://www.hackerrank.com/rayabhishek">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />
-</a><br><br>
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AbhishekKumarRay.AbhishekKumarRay)
 
